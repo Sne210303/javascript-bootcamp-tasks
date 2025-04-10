@@ -20,3 +20,19 @@ This repository contains solutions to the JavaScript Bootcamp tasks. The tasks a
   - Array manipulation and sum calculations
 
 ---
+
+## 🧠 Advanced Problems – HackerRank
+
+### Algorithms:
+- `number_line_jumps.js`: Solves the Kangaroo meeting problem using math.
+- `sales_by_match.js`: Counts matching pairs of socks.
+- `bill_division.js`: Determines if a bill was split fairly between friends.
+
+---
+
+## 🚀 How to Run
+
+You can run any file using Node.js:
+
+```bash
+node filename.js
